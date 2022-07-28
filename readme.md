@@ -1,1 +1,1 @@
-## Proyecto integrador - Educación It
+# Proyecto integrador - Educacion IT
